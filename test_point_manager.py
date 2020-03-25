@@ -11,7 +11,7 @@ from base import Base
 
 
 class TestPointManager(unittest.TestCase):
-    """ Tests PointManager Class """
+    """ askjdfghkasjdghTests PointManager Class """
 
     def setUp(self):
         engine = create_engine('sqlite:///test_points.sqlite')
